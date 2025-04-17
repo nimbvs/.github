@@ -65,3 +65,8 @@ We're building a foundation that can support a new way of interacting with finan
 ---
 
 > **nimbvs** – smart agents for smarter finance ⚡
+
+---
+
+🧠 Project envisioned by **Silvio Rubio** and developed with support from **ChatGPT AI**.
+Together, we designed the foundation of an ethical, modular and automated financial data infrastructure.

@@ -65,3 +65,8 @@ Estamos construindo uma base sólida para uma nova forma de lidar com dados fina
 ---
 
 > **nimbvs** – agentes inteligentes para um mercado mais inteligente ⚡
+
+---
+
+🧠 Projeto idealizado por **Silvio Rubio** e desenvolvido com apoio da **IA do ChatGPT**.
+Juntos, desenhamos a base de uma infraestrutura ética, modular e automatizada para dados financeiros.
