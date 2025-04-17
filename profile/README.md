@@ -1,7 +1,7 @@
 # 🌩️ nimbvs
 
 This repository is maintained in **English**.  
-📄 [Leia em português](README.pt-BR.md)
+📄 [Leia em português](./README.pt-BR.md)
 
 ---
 
